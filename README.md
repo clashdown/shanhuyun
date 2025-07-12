@@ -43,4 +43,4 @@
 
 ## 闪狐云机场价格
 
-![shanhuyuanprice](shanhuyuan_price.jpg)
+![shanhuyuanprice](shanhuyun_price.jpg)
